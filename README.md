@@ -13,7 +13,7 @@ To evaluate and compare the performance of:
 ---
 
 ## 📊 Dataset
-- UCI HAR Dataset
+- UCI HAR Dataset : https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones
 - 30 subjects
 - 6 activities:
   - Walking
@@ -49,13 +49,13 @@ To evaluate and compare the performance of:
 ## 📊 Visualizations
 
 ### Model Comparison
-![Comparison](results/comparison_chart.png)
+![Comparison](results/ACC vs Model.png)
 
 ### Confusion Matrix (SVM)
-![SVM](results/confusion_matrix_svm.png)
+![SVM](results/SVM Conf Met.png)
 
 ### Deep Learning Performance
-![DL](results/accuracy_loss_dl.png)
+![DL](results/ACC & Loss.png)
 
 ---
 
@@ -71,4 +71,5 @@ To evaluate and compare the performance of:
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/main.ipynb
+jupyter notebook main.ipynb
+
