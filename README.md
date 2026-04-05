@@ -49,7 +49,7 @@ To evaluate and compare the performance of:
 ## 📊 Visualizations
 
 ### Model Comparison
-![Comparison](results/ACC vs Model.png)
+![Comparison](results/ACC%20vs%20Model.png)
 
 ### Confusion Matrix (SVM)
 ![SVM](results/SVM Conf Met.png)
