@@ -52,10 +52,10 @@ To evaluate and compare the performance of:
 ![Comparison](results/ACC%20vs%20Model.png)
 
 ### Confusion Matrix (SVM)
-![SVM](results/SVM Conf Met.png)
+![SVM](results/SVM%20Conf%20Met.png)
 
 ### Deep Learning Performance
-![DL](results/ACC & Loss.png)
+![DL](results/ACC%20%26%20Loss.png)
 
 ---
 
